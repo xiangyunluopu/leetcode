@@ -1,9 +1,8 @@
 package test_2025_3_23;
 
 import java.util.Arrays;
-import java.util.stream.IntStream;
 
-class Solution {
+class Solution88 {
     public static void main(String[] args) {
         int[] nums1 = new int[]{4, 4, 9, 0, 0, 0};
         int m = 3;
